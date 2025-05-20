@@ -6,12 +6,14 @@
 - 📫 Wanna get in contact? Here's my email: its.muhammad.ali.mughal@gmail.com
 - 🎮 Competitive Gamer: Cod4 (yeah the one release in 2007, been playing since 2015), Cs GO (now CS2), Valorant (Too ez tho).
 
-![Muhammad Ali's github stats](https://github-readme-stats.vercel.app/api?username=muhammad-ali-pk&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-ali-pk&show_icons=true&hide_border=true)
-![Trophies](https://github-profile-trophy.vercel.app/?username=muhammad-ali-pk&theme=radical&no-frame=true&title=MultiCommit,Repositories,Contributors,PullRequests,Issues)
-![Trophies](https://github-profile-trophy.vercel.app/?username=muhammad-ali-pk&theme=radical&no-frame=true&title=Stars,Forks,Commits,Followers)
-![Trophies](https://github-profile-trophy.vercel.app/?username=muhammad-ali-pk&theme=radical&no-frame=true&title=Languages,RepositoriesCreated,ContributedTo,TopLang)
+## 📈 Profile stats
+<div style="display:flex;flex-flow:row wrap;justify-content:center;align-items:center">
+    <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-ali-pk&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-ali-pk&theme=github_dark"/></a>
+    <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammad-ali-pk&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammad-ali-pk&theme=github_dark"/></a>
+    <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammad-ali-pk&theme=github_dark&utcOffset=-5"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammad-ali-pk&theme=github_dark&utcOffset=-5"/></a>
+</div>
 
+## 🔨 Toolkit
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=white)
