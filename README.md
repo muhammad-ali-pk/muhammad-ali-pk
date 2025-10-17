@@ -12,8 +12,9 @@
     <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammad-ali-pk&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammad-ali-pk&theme=github_dark"/></a>
     <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammad-ali-pk&theme=github_dark&utcOffset=-5"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammad-ali-pk&theme=github_dark&utcOffset=-5"/></a>
     <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammad-ali-pk&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammad-ali-pk&theme=github_dark"/></a>
-
 </div>
+
+[![An image of @muhammadalipk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammadalipk)](https://holopin.io/@muhammadalipk)
 
 ## 🔨 Toolkit
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
